@@ -28,3 +28,7 @@ In each iteration, it performs the following steps:
 4) It adds the returned sum to the sum.
 
 Finally, the `sumEvenDigits` function returns the calculated sum.
+
+## reference
+Luhn algorithm: 
+https://en.wikipedia.org/wiki/Luhn_algorithm
