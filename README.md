@@ -29,6 +29,6 @@ In each iteration, it performs the following steps:
 
 Finally, the `sumEvenDigits` function returns the calculated sum.
 
-## reference
+## Reference
 Luhn algorithm: 
 https://en.wikipedia.org/wiki/Luhn_algorithm
